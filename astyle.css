@@ -1,0 +1,41 @@
+nav {float: right;
+}
+
+nav ul {list-style-type: none;
+    
+}
+
+nav li {float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+footer {font-size: 20px;
+    margin-left: 30px;
+}
+
+p {width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    color: lime;
+    font-family: serif;
+    font-size: 50px;
+}
+
+legend {margin-left: 400px;
+    margin-right: 500px;
+    padding: 10px;
+}
+
+table {width: 90%;
+    border-collapse: collapse;
+    margin-left: 20px;
+}
+
+table td, th {border: 2px solid;
+    text-align: center;
+}
+
+tr {font-family: Arial, Helvetica, sans-serif;
+}
+

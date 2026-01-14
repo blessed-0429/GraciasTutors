@@ -1,0 +1,71 @@
+body {font-family: sans-serif;
+}
+
+header {background-color: black;
+    font-family: cursive;
+    color: lime;
+    padding: 5px;
+}
+
+h1 {font-family: cursive;
+    color: lime;
+    text-align: center;
+}
+
+h2 {font-size: 50px;
+    width: 50%;
+    font-family: cursive;
+    background-color: lime;
+    color: blue;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+}
+
+h3 {font-size: 30px;
+    width: 40%;
+    width: 80%;;
+    background-color: lime;
+    color: black;
+}
+
+h4 {font-size: 40px;
+    width: 80%;
+    color: blue;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    color: lime;
+    font-size: 50px;
+}
+
+div {width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 30px;
+}
+
+img {margin-left: 30px;
+    padding: 20px;
+    height: 550px;
+}
+
+footer {font-size: 20px;
+    margin-left: 30px;
+}
+
+nav {float: right;
+}
+
+nav ul {list-style-type: none;
+    
+}
+
+nav li {float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+footer {font-size: 30px;
+    margin-left: 30px;
+}
+
+nav {float: right;
+}
+
+nav ul {list-style-type: none;
+    
+}
+
+nav li {float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+article {margin-left: 20px;
+}
+
