@@ -2,21 +2,20 @@ body {font-family: sans-serif;
 }
 
 header {background-color: black;
+    color: white;
     font-family: cursive;
-    color: lime;
     padding: 5px;
+    width: 100%;
 }
 
 h1 {font-family: cursive;
-    color: lime;
     text-align: center;
 }
 
 h2 {font-size: 50px;
-    width: 50%;
+    width: 75%;
     font-family: cursive;
     background-color: lime;
-    color: blue;
     margin-right: auto;
     margin-left: auto;
     text-align: center;
@@ -31,7 +30,7 @@ h3 {font-size: 30px;
 
 h4 {font-size: 40px;
     width: 80%;
-    color: blue;
+    color: lime;
     margin-right: auto;
     margin-left: auto;
 }
@@ -39,7 +38,6 @@ h4 {font-size: 40px;
 p {width: 95%;
     margin-right: auto;
     margin-left: auto;
-    color: lime;
     font-size: 50px;
 }
 
@@ -49,9 +47,9 @@ div {width: 80%;
     font-size: 30px;
 }
 
-img {margin-left: 30px;
+img {margin-left: auto;
     padding: 20px;
-    height: 550px;
+    height: auto;
 }
 
 footer {font-size: 20px;
