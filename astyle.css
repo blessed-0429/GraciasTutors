@@ -17,14 +17,11 @@ footer {font-size: 20px;
 p {width: 95%;
     margin-right: auto;
     margin-left: auto;
-    color: lime;
     font-family: serif;
     font-size: 50px;
 }
 
-legend {margin-left: 400px;
-    margin-right: 500px;
-    padding: 10px;
+legend {padding: 10px;
 }
 
 table {width: 90%;
